@@ -1,0 +1,7 @@
+id = "zed-gruvbox-ng"
+name = "Gruvbox Material NG"
+version = "0.0.1"
+schema_version = 1
+authors = ["Rexagon"]
+description = "A port of VSCode Gruvbox Material theme"
+repository = "https://github.com/Rexagon/zed-gruvbox-ng"
